@@ -1,0 +1,5 @@
+Total number of games played: 3
+All time highest score: 1104
+The highest number displayed in a game: 128
+Number of victories (= number of times a player achieved the target of 2048): 0
+Number of moves it takes to achieved 2048: -

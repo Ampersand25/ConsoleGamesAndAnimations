@@ -1,0 +1,5 @@
+ Statistics:
+-Total games played: 86
+-Nr. of wins: 0 (oviously)
+-Nr. of draws: 37
+-Nr. of loses: 49

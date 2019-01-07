@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1546714188 source:c:\users\cristi\documents\codeblocks projects\guess_the_letter\main.cpp
+	<time.h>
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

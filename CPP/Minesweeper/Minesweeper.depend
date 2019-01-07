@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1518810152 source:c:\users\cristi\documents\codeblocks projects\minesweeper\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+

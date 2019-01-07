@@ -1,0 +1,14 @@
+ Casual
+-matches: 3
+-wins: 2
+-defeats: 1
+
+ Intermediate
+-matches: 1
+-wins: 0
+-defeats: 1
+
+ Hardcore
+-matches: 1
+-wins: 0
+-defeats: 1

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1546713346 source:c:\users\cristi\documents\codeblocks projects\lightsout\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<iomanip>
+	<assert.h>
+

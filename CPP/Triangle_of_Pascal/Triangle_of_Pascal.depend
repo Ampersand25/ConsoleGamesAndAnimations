@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546620024 source:c:\users\cristi\documents\codeblocks projects\triangle_of_pascal\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+

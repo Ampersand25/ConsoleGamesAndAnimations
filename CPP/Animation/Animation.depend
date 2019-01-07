@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1546611492 source:c:\users\cristi\documents\codeblocks projects\animation\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<assert.h>
+	<cmath>
+
